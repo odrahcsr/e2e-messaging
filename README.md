@@ -1,3 +1,5 @@
+This is a python code for a messaging software with end-to-end encryption using AES-256 for messaging encryption and uses RSA for key-exchange. Both server and client have built-in Allocated Memory Monitor system which monitors the allocated memory being used.
+
 ### **How to install this on Mac**
 
 1. Make sure you have installed the latest version of python on your mac. To check, go on your terminal and paste: (bash)
